@@ -1,0 +1,1 @@
+select * from `group-5-data-warehousing.311_data.311_data_table`
