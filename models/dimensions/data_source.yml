@@ -1,0 +1,8 @@
+version: 2
+
+models:
+  - name: 311 data
+    database: group-5-data-warehousing
+    schema: dbt_transformed_311
+    tables:
+      - name: staging_311
